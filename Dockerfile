@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY random_number.py  /app
 
-CMD ["python","random_number"]
+CMD ["python","random_number.py"]
